@@ -8,10 +8,11 @@ This repository is intended for learning, experimentation, and growth, and feedb
 
 
 ### How the Game Works
-The program randomly selects a number between 1 to 100. The user is prompted to guess the number. The program provides feedback: "Too high"and "Too low".The user can make unlimited attempts until the correct number is guessed. Once guessed correctly, the game ends.
+The program randomly selects a number between 1 to 100. The user is prompted to guess the number. The program provides feedback: "Too high" and "Too low" .The user can make unlimited attempts until the correct number is guessed. Once guessed correctly, the game ends.
 
 ### 🛠️ Technologies Used
 Language: Python
+ 
 Module: random
 
 
